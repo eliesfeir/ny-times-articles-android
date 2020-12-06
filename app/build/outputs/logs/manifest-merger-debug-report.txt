@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/06d830c68a8fa933c4dc48866078b2da/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9b96e7ecc0f468592f7113b7438cf4ae/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/68adc139dd6592c45d21ac5406b5f8a3/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/101dd7d9d262cc603103d2a1197fb2d8/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/2bc8f9de27a5ea0ea0764e9d1dd37ce6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/07da02a3872317e293b8668599e02074/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/ba5116e0de85088cc3426507b51ad3c1/jetified-glide-4.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/5afab53df565e440f0ce4540c5d6d884/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/95c89823a4d89ea0caf72cdb96bf5779/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/498f7e57db466c509c85c54f559a58b7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9485448fdfb39089ebcd4c40fd060ecc/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/d6ef1ab33bc553f914ed99aa1d827366/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/dcf391c5e807c5613034d4bc87d25e8d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikhaellopez:circularimageview:4.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/6d1c149fec7283932b6273d996633ebf/circularimageview-4.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/224f51a6e1da49bd5b0a38d7c65b8a2e/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/680eee03533926cd8eba86c6046a5dae/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9bca99bd855d8363bd34ef74fc46caf0/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/4aa633f2b210b7e56e3e334c5455b48b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/0a1e81f3e3012d84cf92020cd0db821f/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/1102192a43eb6cec925b93cbd9d019f9/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/55da55665130f505da6f7057d4014762/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/04356a041ba5b7e854e4bfcc3ccabe99/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/5708406e1ac882fe2f24d90b814c8063/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/71ebbab001a6ccf4bcad5e5f50d68681/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/7a81a18735de6c77a323a5edd87c352f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/dd097b0540858f189d845c4c21d13728/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/a53f098bd3b641aa48d8cb8b994c3150/jetified-gifdecoder-4.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/8882c5159a4f721fbf591d5ded86beb2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/4bf6cdede56e2bb3847bac65a9f77b73/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/1efe2bdb06f3015cbf5016dd1e39e16c/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c32fe795585d49babe9bafee79bbbd07/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e2715c907abd87f14f8187e99843af8f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c9e1a40e17eaa2033dba5287d334fad8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/944efa6e273e981fcd7aa9055f46d7d5/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/75332b7c83f8f9b022c996b6951fdb6a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c4ca9d48c136f92cb7a6f7046c8cd74f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/b478dbfb32927ae857147dfb2810a02b/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/919237cc68425e7df7c8c18b9222f047/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e29662c82dbbbb64445afc447523c6ae/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9b96e7ecc0f468592f7113b7438cf4ae/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9b96e7ecc0f468592f7113b7438cf4ae/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/07da02a3872317e293b8668599e02074/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/07da02a3872317e293b8668599e02074/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/ba5116e0de85088cc3426507b51ad3c1/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/ba5116e0de85088cc3426507b51ad3c1/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/a53f098bd3b641aa48d8cb8b994c3150/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/a53f098bd3b641aa48d8cb8b994c3150/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e2715c907abd87f14f8187e99843af8f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e2715c907abd87f14f8187e99843af8f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.android.nytimes.activities.ArticleDetailsActivity
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:16:9-117
+	android:screenOrientation
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:16:69-105
+	android:name
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:16:19-68
+activity#com.android.nytimes.activities.MainActivity
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:screenOrientation
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:17:59-95
+	android:name
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:17:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/06d830c68a8fa933c4dc48866078b2da/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/06d830c68a8fa933c4dc48866078b2da/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9b96e7ecc0f468592f7113b7438cf4ae/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9b96e7ecc0f468592f7113b7438cf4ae/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/68adc139dd6592c45d21ac5406b5f8a3/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/68adc139dd6592c45d21ac5406b5f8a3/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/101dd7d9d262cc603103d2a1197fb2d8/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/101dd7d9d262cc603103d2a1197fb2d8/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/2bc8f9de27a5ea0ea0764e9d1dd37ce6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/2bc8f9de27a5ea0ea0764e9d1dd37ce6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/07da02a3872317e293b8668599e02074/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/07da02a3872317e293b8668599e02074/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/ba5116e0de85088cc3426507b51ad3c1/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/ba5116e0de85088cc3426507b51ad3c1/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/5afab53df565e440f0ce4540c5d6d884/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/5afab53df565e440f0ce4540c5d6d884/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/95c89823a4d89ea0caf72cdb96bf5779/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/95c89823a4d89ea0caf72cdb96bf5779/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/498f7e57db466c509c85c54f559a58b7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/498f7e57db466c509c85c54f559a58b7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9485448fdfb39089ebcd4c40fd060ecc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9485448fdfb39089ebcd4c40fd060ecc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/d6ef1ab33bc553f914ed99aa1d827366/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/d6ef1ab33bc553f914ed99aa1d827366/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/dcf391c5e807c5613034d4bc87d25e8d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/dcf391c5e807c5613034d4bc87d25e8d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mikhaellopez:circularimageview:4.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/6d1c149fec7283932b6273d996633ebf/circularimageview-4.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:4.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/6d1c149fec7283932b6273d996633ebf/circularimageview-4.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/224f51a6e1da49bd5b0a38d7c65b8a2e/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/224f51a6e1da49bd5b0a38d7c65b8a2e/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/680eee03533926cd8eba86c6046a5dae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/680eee03533926cd8eba86c6046a5dae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9bca99bd855d8363bd34ef74fc46caf0/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/9bca99bd855d8363bd34ef74fc46caf0/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/4aa633f2b210b7e56e3e334c5455b48b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/4aa633f2b210b7e56e3e334c5455b48b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/0a1e81f3e3012d84cf92020cd0db821f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/0a1e81f3e3012d84cf92020cd0db821f/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/1102192a43eb6cec925b93cbd9d019f9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/1102192a43eb6cec925b93cbd9d019f9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/55da55665130f505da6f7057d4014762/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/55da55665130f505da6f7057d4014762/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/04356a041ba5b7e854e4bfcc3ccabe99/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/04356a041ba5b7e854e4bfcc3ccabe99/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/5708406e1ac882fe2f24d90b814c8063/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/5708406e1ac882fe2f24d90b814c8063/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/71ebbab001a6ccf4bcad5e5f50d68681/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/71ebbab001a6ccf4bcad5e5f50d68681/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/7a81a18735de6c77a323a5edd87c352f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/7a81a18735de6c77a323a5edd87c352f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/dd097b0540858f189d845c4c21d13728/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/dd097b0540858f189d845c4c21d13728/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/a53f098bd3b641aa48d8cb8b994c3150/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/a53f098bd3b641aa48d8cb8b994c3150/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/8882c5159a4f721fbf591d5ded86beb2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/8882c5159a4f721fbf591d5ded86beb2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/4bf6cdede56e2bb3847bac65a9f77b73/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/4bf6cdede56e2bb3847bac65a9f77b73/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/1efe2bdb06f3015cbf5016dd1e39e16c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/1efe2bdb06f3015cbf5016dd1e39e16c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c32fe795585d49babe9bafee79bbbd07/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c32fe795585d49babe9bafee79bbbd07/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e2715c907abd87f14f8187e99843af8f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e2715c907abd87f14f8187e99843af8f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c9e1a40e17eaa2033dba5287d334fad8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c9e1a40e17eaa2033dba5287d334fad8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/944efa6e273e981fcd7aa9055f46d7d5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/944efa6e273e981fcd7aa9055f46d7d5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/75332b7c83f8f9b022c996b6951fdb6a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/75332b7c83f8f9b022c996b6951fdb6a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c4ca9d48c136f92cb7a6f7046c8cd74f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/c4ca9d48c136f92cb7a6f7046c8cd74f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/b478dbfb32927ae857147dfb2810a02b/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/b478dbfb32927ae857147dfb2810a02b/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/919237cc68425e7df7c8c18b9222f047/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/919237cc68425e7df7c8c18b9222f047/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e29662c82dbbbb64445afc447523c6ae/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/e29662c82dbbbb64445afc447523c6ae/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

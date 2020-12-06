@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.nytimes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:8:5-24:19
+15        android:allowBackup="true"
+15-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.2] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/596f6294aeeeb0a8801894ba27f105fa/core-1.3.2/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme"
+23-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:15:9-40
+24        android:usesCleartextTraffic="true" >
+24-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:14:9-44
+25        <activity
+25-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:16:9-117
+26            android:name="com.android.nytimes.activities.ArticleDetailsActivity"
+26-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:16:19-68
+27            android:screenOrientation="portrait" />
+27-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:16:69-105
+28        <activity
+28-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:17:9-23:20
+29            android:name="com.android.nytimes.activities.MainActivity"
+29-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:17:19-58
+30            android:screenOrientation="portrait" >
+30-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:17:59-95
+31            <intent-filter>
+31-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:18:13-22:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:19:17-69
+32-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:19:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:21:17-77
+34-->/Users/eliesfeir/StudioProjects/ny-times-articles-android/app/src/main/AndroidManifest.xml:21:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+38-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+39            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+39-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+40            android:authorities="com.android.nytimes.lifecycle-process"
+40-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+41            android:exported="false"
+41-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+42            android:multiprocess="true" />
+42-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/eliesfeir/.gradle/caches/transforms-2/files-2.1/f354f060955554da7b1e115e64673629/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+43    </application>
+44
+45</manifest>

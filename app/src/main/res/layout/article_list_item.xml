@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@+id/cvArticleItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/clArticleItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/clArticleItem_padding">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/ivArticle"
+        android:layout_width="@dimen/ivArticle_width"
+        android:layout_height="@dimen/ivArticle_height"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/imagenotfound"
+
+   />
+
+    <TextView
+        android:id="@+id/tvArticleTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/tvArticleTitle_marginStart"
+        android:layout_marginEnd="@dimen/tvArticleTitle_marginEnd"
+        android:ellipsize="end"
+        android:gravity="start"
+        android:maxLines="2"
+        android:textColor="@color/colorBlack"
+        app:layout_constraintEnd_toStartOf="@id/ivArticleArrow"
+        app:layout_constraintStart_toEndOf="@+id/ivArticle"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/tvArticleAuthor"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/tvArticleAuthor_marginTop"
+        android:layout_marginEnd="@dimen/tvArticleAuthor_marginEnd"
+        android:ellipsize="end"
+        android:gravity="start"
+        android:maxLines="2"
+        android:textColor="@color/colorGrey"
+        app:layout_constraintEnd_toEndOf="@id/tvArticleTitle"
+        app:layout_constraintStart_toStartOf="@+id/tvArticleTitle"
+        app:layout_constraintTop_toBottomOf="@+id/tvArticleTitle" />
+
+    <RelativeLayout
+        android:id="@+id/rlArticleDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/rlArticleDate_marginTop"
+        app:layout_constraintTop_toBottomOf="@+id/tvArticleAuthor"
+        app:layout_constraintEnd_toEndOf="@id/tvArticleTitle">
+
+        <ImageView
+            android:id="@+id/ivArticleDate"
+            android:layout_width="@dimen/ivArticleDate_width"
+            android:layout_height="@dimen/ivArticleDate_height"
+            android:layout_alignTop="@+id/tvArticleDate"
+            android:layout_alignBottom="@+id/tvArticleDate"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/ic_date_range" />
+
+        <TextView
+            android:id="@+id/tvArticleDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/tvArticleDate_marginStart"
+            android:layout_toEndOf="@+id/ivArticleDate"
+            android:textColor="@color/colorGrey" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/ivArticleArrow"
+        android:layout_width="@dimen/ivArticleArrow_width"
+        android:layout_height="@dimen/ivArticleArrow_height"
+        android:src="@drawable/ic_keyboard_arrow_right"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/llArticleDetail"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:gravity="start"
+android:orientation="vertical"
+android:padding="@dimen/llArticleDetail_padding"
+tools:context=".activities.ArticleDetailsActivity">
+
+<ImageView
+    android:id="@+id/ivArticleDetail"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/ivArticleDetail_height" />
+
+
+<TextView
+    android:id="@+id/tvArticleDetailTitle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/tvArticleDetailTitle_marginTop"
+    android:gravity="start"
+    android:textColor="@color/colorBlack"
+    android:textSize="@dimen/tvArticleDetailTitle_textSize"
+    android:textStyle="bold"
+
+    />
+
+<TextView
+    android:id="@+id/tvArticleDetailDate"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/tvArticleDetailDate_marginTop"
+    android:gravity="start"
+    android:textColor="@color/colorBlack"
+    android:textSize="@dimen/tvArticleDetailDate_textSize" />
+
+
+<TextView
+    android:id="@+id/tvArticleDetailAbstract"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/tvArticleDetailAbstract_marginTop"
+    android:gravity="start"
+    android:textColor="@color/colorBlack"
+    android:textSize="@dimen/tvArticleDetailAbstract_textSize" />
+
+
+</LinearLayout>
+
+    </ScrollView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dimensions related to article_list_item.xml    -->
+    <dimen name="clArticleItem_padding">20dp</dimen>
+    <dimen name="ivArticle_width">50dp</dimen>
+    <dimen name="ivArticle_height">50dp</dimen>
+    <dimen name="tvArticleTitle_marginStart">10dp</dimen>
+    <dimen name="tvArticleTitle_marginEnd">15dp</dimen>
+    <dimen name="tvArticleAuthor_marginTop">15dp</dimen>
+    <dimen name="tvArticleAuthor_marginEnd">5dp</dimen>
+    <dimen name="rlArticleDate_marginTop">10dp</dimen>
+    <dimen name="ivArticleDate_width">20dp</dimen>
+    <dimen name="ivArticleDate_height">20dp</dimen>
+    <dimen name="tvArticleDate_marginStart">3dp</dimen>
+    <dimen name="ivArticleArrow_width">30dp</dimen>
+    <dimen name="ivArticleArrow_height">30dp</dimen>
+
+    <!-- dimensions related to activity_article_details.xml    -->
+    <dimen name="ivArticleDetail_height">250dp</dimen>
+    <dimen name="tvArticleDetailTitle_textSize">25sp</dimen>
+    <dimen name="tvArticleDetailTitle_marginTop">15dp</dimen>
+    <dimen name="tvArticleDetailAbstract_marginTop">10dp</dimen>
+    <dimen name="tvArticleDetailAbstract_textSize">20sp</dimen>
+    <dimen name="tvArticleDetailDate_marginTop">10dp</dimen>
+    <dimen name="tvArticleDetailDate_textSize">15sp</dimen>
+    <dimen name="llArticleDetail_padding">10dp</dimen>
+
+</resources>

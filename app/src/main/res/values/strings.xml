@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NY Times</string>
+
+    <string name="could_not_load_article">Could Not Load Article</string>
+    <string name="check_internet_connection">Please check your intenet connection</string>
+    <string name="something_wrong">Something went wrong, please try again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
